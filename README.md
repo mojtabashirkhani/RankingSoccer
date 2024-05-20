@@ -10,7 +10,7 @@ Ranking Soccer is a simple application that shows multiple lists depending on th
 + [Retrofit](https://square.github.io/retrofit/)
 + [OkHttp](https://github.com/square/okhttp)
 + [Material Design](https://material.io/develop/android/docs/getting-started/)
-+ [Jackson]([https://github.com/square/moshi](https://github.com/FasterXML/jackson))
++ [Jackson](https://github.com/FasterXML/jackson)
 
 ### Architecture
 
